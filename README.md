@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# ![Gif](./public/Calculadora%20Aritmética%20-%20Brave%202023-07-31%2012-47-45.gif)
